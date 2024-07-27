@@ -33,7 +33,6 @@ const NewArrivals = () => {
                                 <MdOutlineStar className='' />
                                 <MdStarHalf className='' />
                                 <p className='font-normal text-[14px] text-[#000]'>4.5/5</p>
-
                             </div>
                             <div className="flex items-center w-[80%] justify-between">
                                 <p className='font-bold text-[24px] text-[#000]'>$120</p>

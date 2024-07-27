@@ -15,7 +15,7 @@ const DressStyle = () => {
         <section>
             <Container className='py-[30px] bg-[#F0F0F0] rounded-2xl'>
                 <div className={inter.className}>
-                    <h4 className='font-bold text-[48px] text-[#000] text-center pb-10'>BROWSE BY dress STYLE</h4>
+                    <h4 className='font-bold text-[48px] text-[#000] text-center pb-10 uppercase'>BROWSE BY Dress STYLE</h4>
                 </div>
                 <div className="flex flex-wrap justify-evenly">
                     <div className="mb-10 relative hover:shadow-[0px_10px_1px_rgba(221,_221,_221,_1),_0_10px_20px_rgba(204,_204,_204,_1)]">
